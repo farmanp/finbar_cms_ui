@@ -2,3 +2,7 @@
 Frontend for the finbar website
 
 Check it!
+
+# What is this? 
+
+COMING SOON
